@@ -1,1 +1,3 @@
-Freshness signal 3 at 2026-10-12 20:16:56Z.
+Ping 4 · 2026-10-12 20:21:19Z
+
+keepalive marker for search-index freshness.
